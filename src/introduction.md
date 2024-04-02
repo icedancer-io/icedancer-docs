@@ -8,6 +8,8 @@ Icedancer is a **true indexer** where you can deploy custom indexing logic, it's
 
 ## Demo
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/1c38fd66c5c24eb6b8993f702c6d9a1e?sid=36354b44-71cb-4c55-9858-50a2fcc29065" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ## Why indexing?
 
 [Banana Swap](https://github.com/icedancer-io/banana-swap) emits `SwapEvent` whenever a swap happens.
